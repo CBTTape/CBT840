@@ -1,0 +1,8 @@
+2023-08-06 07:53:52.862024 - Initialized conversion of CBT840
+2023-08-06 07:53:52.897031 - Received CBT.V505.FILE840.PDS from FILE840.XMI 
+2023-08-06 07:53:52.899168 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE840.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:53:52.900122 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE840.PDS, moved to PDS/$$NOTE1
+2023-08-06 07:53:52.901330 - Found $NOTES.txt (text/plain) in CBT.V505.FILE840.PDS, moved to PDS/$NOTES
+2023-08-06 07:53:52.902214 - Found @FILE840.txt (text/plain) in CBT.V505.FILE840.PDS, moved to PDS/@FILE840
+2023-08-06 07:53:52.903060 - Found CSFPRM00.txt (text/plain) in CBT.V505.FILE840.PDS, moved to PDS/CSFPRM00
+2023-08-06 07:53:52.903873 - Found KGUPEXIT.txt (text/plain) in CBT.V505.FILE840.PDS, moved to PDS/KGUPEXIT
